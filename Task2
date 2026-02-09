@@ -1,1 +1,10 @@
 print("whassup g")
+# My personal/casual lexicon is critically influenced by slang sorry :(
+"""Its cool tho
+I think at least"""
+
+Name = "LebogangDhlamini"
+print(Name)
+
+user_input = input("your favorite slang word")
+print(user_input + "is so unprofessional bro")
