@@ -1,0 +1,10 @@
+last shower > 4 days
+sweat a lot | yes
+worked out recently | yes
+
+if the user has not showered for more than 4 days
+  tell the user "You need to shower"
+if the user sweats a lot 
+  tell the user "You really need to shower"
+if the user has recently worked out
+  tell the user "Please go shower after your workouts!"
